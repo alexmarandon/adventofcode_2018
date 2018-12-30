@@ -1,6 +1,4 @@
 # adventofcode_2018
 
-## sous-titre
-
-Ceci est du texte dans le sous-titre
+This is a repo to store all my code for the advent of code 2018
 
